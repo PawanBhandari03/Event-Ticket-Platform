@@ -9,11 +9,11 @@
     <version>3.4.4</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.devtiro</groupId>
+  <groupId>com.pawanblog</groupId>
   <artifactId>tickets</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>tickets</name>
-  <description>An Event Ticket Platform</description>
+  <name>pawanblog-tickets</name>
+  <description>PawanBlog Event Ticket Platform</description>
   <url/>
   <licenses>
     <license/>

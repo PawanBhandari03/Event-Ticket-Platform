@@ -105,8 +105,8 @@ const router = createBrowserRouter([
 ]);
 
 const oidcConfig = {
-  authority: "http://localhost:9090/realms/event-ticket-platform",
-  client_id: "event-ticket-platform-app",
+  authority: "http://localhost:9090/realms/pawanblog-event-ticket-platform",
+  client_id: "pawanblog-event-ticket-platform-app",
   redirect_uri: "http://localhost:5173/callback",
 };
 
